@@ -1,7 +1,7 @@
 # IB Diploma: guías y sinopsis
 Todas los sinopsis y guías de estudios del Programa del Diploma en los Colegios de Alto Rendimimiento (COAR). Actualizados según los últimos cambios en el programa de estudios del Programa del Diploma (Primera evaluación 2023 y 2024).
 
-## IB Diploma guides
+## IB Diploma Guías
 GRUPO 1: LENGUA Y LITERATURA
 * Guía Lengua A: Literatura NS
 
@@ -28,7 +28,7 @@ GRUPO 5: ARTES
 * Artes Visuales NM
 * Música NM 
 
-## IB Diploma sinopsis
+## IB Diploma Sinopsis
 
 COMPONENTES TRONCALES
 * Sinopsis Monografía
